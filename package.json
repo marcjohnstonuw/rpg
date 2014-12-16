@@ -1,0 +1,33 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "author": "Marc Johnston <mjohnston@konradgroup.com>",
+  "homepage": "http://www.konradgroup.com",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "del": "^0.1.3",
+    "gulp": "*",
+    "gulp-changed": "^1.0.0",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-connect": "*",
+    "gulp-filesize": "*",
+    "gulp-ftp": "^1.0.1",
+    "gulp-less": "*",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-minify-html": "^0.1.6",
+    "gulp-rename": "*",
+    "gulp-rev": "^2.0.1",
+    "gulp-uglify": "*",
+    "gulp-usemin": "^0.3.8",
+    "gulp-util": "^3.0.1",
+    "gulp-watch": "*",
+    "path": "*"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^1.2.1",
+    "gulp-minify-css": "^0.3.11"
+  }
+}
